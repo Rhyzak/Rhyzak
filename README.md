@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... deez nutz
 - 🌱 I’m currently learning ... deez nutz
 - 💞️ I’m looking to collaborate on ... deez nutz
-- 📫 How to reach me ... eez nutz
+- 📫 How to reach me ... deez nutz
 
 <!---
 Rhyzak/Rhyzak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
